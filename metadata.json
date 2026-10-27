@@ -1,0 +1,6 @@
+{
+  "name": "NAYA - No Afraid Yes Abroad",
+  "description": "Retro 8-bit pixel art English speaking practice app for learning directions abroad, specially designed for Korean middle school students.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
